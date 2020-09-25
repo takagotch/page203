@@ -1,3 +1,8 @@
+predocument
+https://github.com/takagotch/page203/blob/master/docs/pre-production.md
+
+
+
 ### https://takagotch.github.io/page203/
 
 >We’re working on Vuestic UI component library, which lets you easily customize components to your own design.<br>
